@@ -1,0 +1,6 @@
+c:\users\raphaelm\documents\visual studio 2013\Projects\ChangeImg\ChangeImg\bin\ChangeImg.dll.config
+c:\users\raphaelm\documents\visual studio 2013\Projects\ChangeImg\ChangeImg\bin\ChangeImg.dll
+c:\users\raphaelm\documents\visual studio 2013\Projects\ChangeImg\ChangeImg\bin\ChangeImg.pdb
+c:\users\raphaelm\documents\visual studio 2013\Projects\ChangeImg\ChangeImg\obj\Debug\ChangeImg.csprojResolveAssemblyReference.cache
+c:\users\raphaelm\documents\visual studio 2013\Projects\ChangeImg\ChangeImg\obj\Debug\ChangeImg.dll
+c:\users\raphaelm\documents\visual studio 2013\Projects\ChangeImg\ChangeImg\obj\Debug\ChangeImg.pdb
